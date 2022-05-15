@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Linux Adminstration**
 
-- 📫 How to reach me **Mahmoud.sabra09@gmail.com**
+- 📫 How to reach me **https://t.me/Mahmoudsabra**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
