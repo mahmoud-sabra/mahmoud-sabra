@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ma7moud_sabra" target="blank"><img src="https://img.shields.io/twitter/follow/ma7moud_sabra?logo=twitter&style=for-the-badge" alt="ma7moud_sabra" /></a> </p>
 
-- 🌱 I’m currently learning **Linux Adminstration**
+- 🌱 I’m currently learning **AWS SAA**
 
 - 📫 How to reach me **https://t.me/Mahmoudsabra**
 
