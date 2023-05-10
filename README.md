@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Devops & cloud**
 
 - 📫 How to reach me **https://t.me/Mahmoudsabra**
-- [![trophy](https://github-profile-trophy.vercel.app/mahmoud-sabra=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### Blogs posts
